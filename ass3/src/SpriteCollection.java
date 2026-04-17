@@ -1,8 +1,3 @@
-/**
- * ass 3
- * Tal Tikhonov
- * 215275512
- */
 //import biuoop.DrawSurface;
 //import java.util.ArrayList;
 //import java.util.List;
