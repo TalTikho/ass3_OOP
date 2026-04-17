@@ -1,8 +1,3 @@
-/**
- * ass 3
- * Tal Tikhonov
- * 215275512
- */
 //public class CollisionInfo {
 //    private Point collisionPoint;
 //    private Collidable collisionObject;
