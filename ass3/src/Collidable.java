@@ -1,8 +1,3 @@
-/**
- * ass 3
- * Tal Tikhonov
- * 215275512
- */
 //public interface Collidable {
 //    Rectangle getCollisionRectangle();
 //    Velocity hit(Point collisionPoint, Velocity currentVelocity);
