@@ -1,8 +1,3 @@
-/**
- * ass 3
- * Tal Tikhonov
- * 215275512
- */
 //import biuoop.GUI;
 //import biuoop.KeyboardSensor;
 //import java.awt.Color;
