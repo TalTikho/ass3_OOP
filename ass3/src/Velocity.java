@@ -1,8 +1,3 @@
-/**
- * ass 3
- * Tal Tikhonov
- * 215275512
- */
 //public class Velocity {
 //    private double dx;
 //    private double dy;
